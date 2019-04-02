@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+hello there
+=======
 hi, Nate was here
 
 where are you guys?
+
+inside the s@r@ang
+>>>>>>> 460cd8fa2b1be7bbf4bd88cb5bf2f61a53797e1d
